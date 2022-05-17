@@ -1,0 +1,17 @@
+list: [
+  {
+    id: 0,
+    name: "大盘鸡",
+    price: 12
+  },
+  {
+    id: 1,
+    name: "炒饭",
+    price: 7
+  },
+  {
+    id: 2,
+    name: "番茄鸡蛋挂面",
+    price: 8
+  }
+]
